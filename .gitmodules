@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/ArdaGurcan/madhacks-2024
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/rochelleli165/madhacks2024-frontend
